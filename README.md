@@ -1,24 +1,44 @@
-# creed
-The Cre8ai.og Creator's Movement Manifesto
-# Cre8ai: A Global Alliance of Creators for the Ethical Use of AI
+# Welcome to Cre8ai
 
-**We are writers, artists, coders, designers, and dreamers who believe that artificial intelligence should not replace the human voice—it should amplify it.**
+**Cre8ai is a global alliance of creators who believe in the ethical use of AI in art, writing, code, and design.**
 
-Cre8ai exists to protect the integrity, dignity, and authorship of creators in an age where automation is easy, but originality is rare.
+We are writers, artists, coders, designers, filmmakers, and dreamers who use AI as a tool—not a crutch.  
+We protect authorship. We honour originality. We defend creative integrity.
 
-This repository contains:
-- Our living **Creed**
-- Our **Creative Commons-licensed badge kit**
-- Our **manifesto** (short + long form)
-- A roadmap for tools, templates, and community resources
+---
 
-We are building a quiet revolution—one word, one brushstroke, one keystroke at a time.
+## What’s Inside
 
-**All creators are welcome. Use the badge. Share the creed. Be counted.**
+This repository includes:
 
-*This is just the beginning.*
+- [`CREED.md`](./CREED.md): Our founding principles
+- [`ROADMAP.md`](./ROADMAP.md): What we’re building next
+- [`badge-guidelines.txt`](./badge-guidelines.txt): How to use our free movement badge
+- `/assets/`: Logos, badges, and visuals for open use
 
-> “AI knows everything about the rabbit. But only you can pull it out of the hat.”
+All content here is open source. Attribution is appreciated, but solidarity is enough.
+
+---
+
+## Who This Is For
+
+- Creators who use AI responsibly  
+- Developers who build with empathy  
+- Publishers who want to support artistic dignity  
+- Journalists, thinkers, and allies who want to understand where the human voice fits in a machine-made world
+
+If that sounds like you, welcome.
+
+---
 
 ## License
-Creative Commons Zero v1.0 Universal — [More info here](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Creative Commons Zero v1.0 Universal  
+[*Read it here →*](https://creativecommons.org/publicdomain/zero/1.0/)
+
+---
+
+> “AI knows everything about the rabbit.  
+> But only you can pull it out of the hat.”
+
+*—Cre8ai*
